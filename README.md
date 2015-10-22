@@ -1,4 +1,5 @@
-# vsGoogleAutocomplete
+# arcyGoogleAutocomplete
+This fork added province. 
 Angularjs autocomplete module using [Google Maps JavaScript API v3](https://developers.google.com/maps/documentation/javascript/places-autocomplete) and embedded autocomplete validator
 
 - [Demo](#demo)
@@ -29,7 +30,7 @@ Angularjs autocomplete module using [Google Maps JavaScript API v3](https://deve
 ## Install
 #### [Bower](http://bower.io)
 ```bash
-bower install vs-google-autocomplete
+bower install arcy-google-autocomplete
 ```
 
 ## Getting started
