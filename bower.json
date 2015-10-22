@@ -1,9 +1,10 @@
 {
-  "name": "vsGoogleAutocomplete",
+  "name": "arcyGoogleAutocomplete",
   "version": "0.4.0",
-  "homepage": "https://github.com/vskosp/vsGoogleAutocomplete",
+  "homepage": "https://github.com/alearcy/vsGoogleAutocomplete",
   "authors": [
-    "K.Polishchuk"
+    "K.Polishchuk",
+    "A. Arcidiaco"
   ],
   "description": "Angularjs autocomplete module with Google Maps JavaScript API v3 and embedded validator",
   "main": [
@@ -50,6 +51,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vskosp/vsGoogleAutocomplete.git"
+    "url": "git://github.com/alearcy/vsGoogleAutocomplete.git"
   }
 }
