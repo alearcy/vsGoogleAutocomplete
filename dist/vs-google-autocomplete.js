@@ -7,7 +7,7 @@
 (function (window, document) {
 'use strict';
 /**
- * vsGoogleAutocomplete - v0.4.0 - 2015-10-22
+ * vsGoogleAutocomplete - v0.4.1 - 2015-10-22
  * https://github.com/vskosp/vsGoogleAutocomplete
  * Copyright (c) 2015 K.Polishchuk
  * License: MIT
