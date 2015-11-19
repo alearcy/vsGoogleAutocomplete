@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.2
+- Blur now leaves blank input field when address is blank 
+
+## 0.4.1
+- Added province for some European countries.
+
 ## 0.4.0 - 2015-10-04
 - [pull #6](https://github.com/vskosp/vsGoogleAutocomplete/pull/6) Added `vsPostCode` for parsing postcode. [close #2](https://github.com/vskosp/vsGoogleAutocomplete/issues/2)
 

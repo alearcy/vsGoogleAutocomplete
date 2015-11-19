@@ -201,7 +201,8 @@
 
                 // updates view value on focusout
                 element.on('blur', function(event) {
-                    viewValue = (place && place.formatted_address) ? viewValue : modelCtrl.$viewValue;
+                    if(modelCtrl.$viewValue === '') viewValue = modelCtrl.$viewValue;
+                    else viewValue = (place && place.formatted_address) ? viewValue : modelCtrl.$viewValue;
                     $timeout(function() {
                         scope.$apply(function() {
                             modelCtrl.$setViewValue(viewValue);
