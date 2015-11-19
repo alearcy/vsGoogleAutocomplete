@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.3
+- Fixes
+
 ## 0.4.2
 - Blur now leaves blank input field when address is blank 
 
